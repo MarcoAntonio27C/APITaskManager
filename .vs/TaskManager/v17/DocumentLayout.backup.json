@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\marco\\Documents\\Proyectos\\TaskManager\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C45198E8-BD21-425C-8308-5E9D8226DA4F}|TaskManager.API\\TaskManager.API.csproj|c:\\users\\marco\\documents\\proyectos\\taskmanager\\taskmanager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45198E8-BD21-425C-8308-5E9D8226DA4F}|TaskManager.API\\TaskManager.API.csproj|solutionrelative:taskmanager.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 167,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\Documents\\Proyectos\\TaskManager\\TaskManager.API\\Program.cs",
+              "RelativeDocumentMoniker": "TaskManager.API\\Program.cs",
+              "ToolTip": "C:\\Users\\marco\\Documents\\Proyectos\\TaskManager\\TaskManager.API\\Program.cs*",
+              "RelativeToolTip": "TaskManager.API\\Program.cs*",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T04:17:19.62Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

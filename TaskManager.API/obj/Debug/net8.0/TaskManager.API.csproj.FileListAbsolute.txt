@@ -38,3 +38,4 @@ C:\Users\marco\Documents\Proyectos\TaskManager\TaskManager.API\obj\Debug\net8.0\
 C:\Users\marco\Documents\Proyectos\TaskManager\TaskManager.API\obj\Debug\net8.0\TaskManager.API.pdb
 C:\Users\marco\Documents\Proyectos\TaskManager\TaskManager.API\obj\Debug\net8.0\TaskManager.API.genruntimeconfig.cache
 C:\Users\marco\Documents\Proyectos\TaskManager\TaskManager.API\obj\Debug\net8.0\ref\TaskManager.API.dll
+C:\Users\marco\Documents\Proyectos\TaskManager\TaskManager.API\obj\Debug\net8.0\TaskManager.API.sourcelink.json
